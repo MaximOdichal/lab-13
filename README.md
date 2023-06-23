@@ -2,7 +2,7 @@
 
 <p align="center">Лабораторная работа №13 <br> "PHP" </p>
 
-<p align="right">Алексеев М. М.</p>
+<p align="right">Выполнил: Алексеев М. М.</p>
 <p align="right">Проверил: Соболев Е. И.</p>
 
 <p align="center">г. Южно-Сахалинск <br> 2023 год</p>
